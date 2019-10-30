@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nuclear-monitor/static/css/main.863f21d6.chunk.css",
-    "main.js": "/nuclear-monitor/static/js/main.54dba327.chunk.js",
-    "main.js.map": "/nuclear-monitor/static/js/main.54dba327.chunk.js.map",
+    "main.css": "/nuclear-monitor/static/css/main.a405bb84.chunk.css",
+    "main.js": "/nuclear-monitor/static/js/main.1fffabda.chunk.js",
+    "main.js.map": "/nuclear-monitor/static/js/main.1fffabda.chunk.js.map",
     "runtime~main.js": "/nuclear-monitor/static/js/runtime~main.81b5c37f.js",
     "runtime~main.js.map": "/nuclear-monitor/static/js/runtime~main.81b5c37f.js.map",
     "static/css/2.8b9c44cc.chunk.css": "/nuclear-monitor/static/css/2.8b9c44cc.chunk.css",
-    "static/js/2.493e467b.chunk.js": "/nuclear-monitor/static/js/2.493e467b.chunk.js",
-    "static/js/2.493e467b.chunk.js.map": "/nuclear-monitor/static/js/2.493e467b.chunk.js.map",
+    "static/js/2.24a9374f.chunk.js": "/nuclear-monitor/static/js/2.24a9374f.chunk.js",
+    "static/js/2.24a9374f.chunk.js.map": "/nuclear-monitor/static/js/2.24a9374f.chunk.js.map",
     "index.html": "/nuclear-monitor/index.html",
-    "precache-manifest.e6f5bf93db395e6111d6f786697dda48.js": "/nuclear-monitor/precache-manifest.e6f5bf93db395e6111d6f786697dda48.js",
+    "precache-manifest.107f8e1826b6efac2aa66734a5c0604a.js": "/nuclear-monitor/precache-manifest.107f8e1826b6efac2aa66734a5c0604a.js",
     "service-worker.js": "/nuclear-monitor/service-worker.js",
     "static/css/2.8b9c44cc.chunk.css.map": "/nuclear-monitor/static/css/2.8b9c44cc.chunk.css.map",
-    "static/css/main.863f21d6.chunk.css.map": "/nuclear-monitor/static/css/main.863f21d6.chunk.css.map"
+    "static/css/main.a405bb84.chunk.css.map": "/nuclear-monitor/static/css/main.a405bb84.chunk.css.map"
   }
 }
