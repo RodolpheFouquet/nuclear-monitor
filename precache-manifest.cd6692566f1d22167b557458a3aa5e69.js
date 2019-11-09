@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dbdc7b30820b137aa747a49273eb217",
+    "revision": "8bce467fbc90081286693abadc0d50fd",
     "url": "/nuclear-monitor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nuclear-monitor/static/css/2.8b9c44cc.chunk.css"
   },
   {
-    "revision": "e42f7823bc61dd6d2e5f",
+    "revision": "b4f8dbb505ffc4a94afa",
     "url": "/nuclear-monitor/static/css/main.a405bb84.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nuclear-monitor/static/js/2.24a9374f.chunk.js"
   },
   {
-    "revision": "e42f7823bc61dd6d2e5f",
-    "url": "/nuclear-monitor/static/js/main.0fef49f7.chunk.js"
+    "revision": "b4f8dbb505ffc4a94afa",
+    "url": "/nuclear-monitor/static/js/main.f83c06ec.chunk.js"
   },
   {
     "revision": "d095af68ceb19f78d9ef",
