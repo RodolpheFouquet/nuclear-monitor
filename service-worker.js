@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nuclear-monitor/precache-manifest.dc1a5417a10d42b5c953ac865a7d4e88.js"
+  "/nuclear-monitor/precache-manifest.72add57f4cc2374643bc6aff867282dd.js"
 );
 
 self.addEventListener('message', (event) => {
