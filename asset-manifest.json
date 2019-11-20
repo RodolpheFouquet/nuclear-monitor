@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nuclear-monitor-stage/static/css/main.ac545318.chunk.css",
-    "main.js": "/nuclear-monitor-stage/static/js/main.eb1f0034.chunk.js",
-    "main.js.map": "/nuclear-monitor-stage/static/js/main.eb1f0034.chunk.js.map",
-    "runtime~main.js": "/nuclear-monitor-stage/static/js/runtime~main.904cc08f.js",
-    "runtime~main.js.map": "/nuclear-monitor-stage/static/js/runtime~main.904cc08f.js.map",
-    "static/css/2.5b32d91b.chunk.css": "/nuclear-monitor-stage/static/css/2.5b32d91b.chunk.css",
-    "static/js/2.42781e32.chunk.js": "/nuclear-monitor-stage/static/js/2.42781e32.chunk.js",
-    "static/js/2.42781e32.chunk.js.map": "/nuclear-monitor-stage/static/js/2.42781e32.chunk.js.map",
-    "index.html": "/nuclear-monitor-stage/index.html",
-    "precache-manifest.ce99eebdd07f357d0297572c118f4ad9.js": "/nuclear-monitor-stage/precache-manifest.ce99eebdd07f357d0297572c118f4ad9.js",
-    "service-worker.js": "/nuclear-monitor-stage/service-worker.js",
-    "static/css/2.5b32d91b.chunk.css.map": "/nuclear-monitor-stage/static/css/2.5b32d91b.chunk.css.map",
-    "static/css/main.ac545318.chunk.css.map": "/nuclear-monitor-stage/static/css/main.ac545318.chunk.css.map"
+    "main.css": "/static/css/main.dfc1a628.chunk.css",
+    "main.js": "/static/js/main.d0335f3f.chunk.js",
+    "main.js.map": "/static/js/main.d0335f3f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.2e421be2.js",
+    "runtime~main.js.map": "/static/js/runtime~main.2e421be2.js.map",
+    "static/css/2.d5534402.chunk.css": "/static/css/2.d5534402.chunk.css",
+    "static/js/2.4f56500a.chunk.js": "/static/js/2.4f56500a.chunk.js",
+    "static/js/2.4f56500a.chunk.js.map": "/static/js/2.4f56500a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.075967dc2cc0598e360a8bdfcc07a7ec.js": "/precache-manifest.075967dc2cc0598e360a8bdfcc07a7ec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d5534402.chunk.css.map": "/static/css/2.d5534402.chunk.css.map",
+    "static/css/main.dfc1a628.chunk.css.map": "/static/css/main.dfc1a628.chunk.css.map"
   }
 }
